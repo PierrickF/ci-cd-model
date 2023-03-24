@@ -3,4 +3,4 @@
 * [Introduction](#introduction)
 
 # Introduction
-This project aims at modeling a CI/CD pipeline.
+This Bash script models the development of a web app.
